@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|c:\\users\\benoit.caldairou\\onedrive - c\u00E9gep \u00E9douard-montpetit\\2023-2024\\202401\\420-4d5\\r19 images\\labo\\r19_labo\\controllers\\fruitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|solutionrelative:controllers\\fruitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\data\\r19_labocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|solutionrelative:data\\r19_labocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|solutionrelative:models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\views\\fruits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|solutionrelative:views\\fruits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\views\\fruits\\ajouterimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|solutionrelative:views\\fruits\\ajouterimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\sql_scripts\\v1_1__insertfruits.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|solutionrelative:sql_scripts\\v1_1__insertfruits.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\sql_scripts\\v1_0__tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|solutionrelative:sql_scripts\\v1_0__tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\sql_scripts\\createdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|solutionrelative:sql_scripts\\createdatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|R19_Labo.csproj|solutionrelative:models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|4204D5_labo12.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\controllers\\fruitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|4204D5_labo12.csproj|solutionrelative:controllers\\fruitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|4204D5_labo12.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\sql_scripts\\v1_1__insertfruits.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|4204D5_labo12.csproj|solutionrelative:sql_scripts\\v1_1__insertfruits.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|4204D5_labo12.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|4204D5_labo12.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|4204D5_labo12.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\sql_scripts\\v1_0__tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|4204D5_labo12.csproj|solutionrelative:sql_scripts\\v1_0__tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|4204D5_labo12.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\views\\fruits\\ajouterimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|4204D5_labo12.csproj|solutionrelative:views\\fruits\\ajouterimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|4204D5_labo12.csproj|C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\views\\fruits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCCC0AC2-8CB9-4D9A-9465-ECD85F40F675}|4204D5_labo12.csproj|solutionrelative:views\\fruits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FruitsController.cs",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Controllers\\FruitsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FruitsController.cs",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Controllers\\FruitsController.cs",
+              "RelativeToolTip": "Controllers\\FruitsController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAQwBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T03:24:22.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Models\\Etudiant.cs",
+              "RelativeDocumentMoniker": "Models\\Etudiant.cs",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Models\\Etudiant.cs",
+              "RelativeToolTip": "Models\\Etudiant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T03:24:22.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T03:24:22.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T03:24:22.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "R19_LaboContext.cs",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Data\\R19_LaboContext.cs",
+              "RelativeDocumentMoniker": "Data\\R19_LaboContext.cs",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Data\\R19_LaboContext.cs",
+              "RelativeToolTip": "Data\\R19_LaboContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T03:24:22.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "V1_1__insertFruits.sql ",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Sql_Scripts\\V1_1__insertFruits.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\V1_1__insertFruits.sql",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Sql_Scripts\\V1_1__insertFruits.sql",
+              "RelativeToolTip": "Sql_Scripts\\V1_1__insertFruits.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000853|",
+              "WhenOpened": "2024-04-04T03:24:22.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T03:24:22.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "V1_0__tables.sql ",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Sql_Scripts\\V1_0__tables.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\V1_0__tables.sql",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Sql_Scripts\\V1_0__tables.sql",
+              "RelativeToolTip": "Sql_Scripts\\V1_0__tables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000853|",
+              "WhenOpened": "2024-04-04T03:24:22.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateDatabase.sql ",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Sql_Scripts\\CreateDatabase.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\CreateDatabase.sql",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Sql_Scripts\\CreateDatabase.sql",
+              "RelativeToolTip": "Sql_Scripts\\CreateDatabase.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000853|",
+              "WhenOpened": "2024-04-04T03:24:22.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AjouterImage.cshtml",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Views\\Fruits\\AjouterImage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fruits\\AjouterImage.cshtml",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Views\\Fruits\\AjouterImage.cshtml",
+              "RelativeToolTip": "Views\\Fruits\\AjouterImage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T03:24:22.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Views\\Fruits\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fruits\\Index.cshtml",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Views\\Fruits\\Index.cshtml",
+              "RelativeToolTip": "Views\\Fruits\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T03:24:22.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Models\\Fruit.cs",
+              "RelativeDocumentMoniker": "Models\\Fruit.cs",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Models\\Fruit.cs",
+              "RelativeToolTip": "Models\\Fruit.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T03:24:22.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Views\\Fruits\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fruits\\Index.cshtml",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Views\\Fruits\\Index.cshtml",
+              "RelativeToolTip": "Views\\Fruits\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T03:24:22.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AjouterImage.cshtml",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Views\\Fruits\\AjouterImage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fruits\\AjouterImage.cshtml",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Views\\Fruits\\AjouterImage.cshtml",
+              "RelativeToolTip": "Views\\Fruits\\AjouterImage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T03:24:22.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FruitsController.cs",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Controllers\\FruitsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FruitsController.cs",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Controllers\\FruitsController.cs",
+              "RelativeToolTip": "Controllers\\FruitsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T03:24:22.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "V1_0__tables.sql ",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Sql_Scripts\\V1_0__tables.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\V1_0__tables.sql",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Sql_Scripts\\V1_0__tables.sql",
+              "RelativeToolTip": "Sql_Scripts\\V1_0__tables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000853|",
+              "WhenOpened": "2024-04-04T03:24:22.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T03:24:22.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "V1_1__insertFruits.sql ",
+              "DocumentMoniker": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Sql_Scripts\\V1_1__insertFruits.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\V1_1__insertFruits.sql",
+              "ToolTip": "C:\\Users\\benoit.caldairou\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\2023-2024\\202401\\420-4D5\\R19 Images\\Labo\\R19_Labo\\Sql_Scripts\\V1_1__insertFruits.sql",
+              "RelativeToolTip": "Sql_Scripts\\V1_1__insertFruits.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000853|",
+              "WhenOpened": "2024-04-04T03:24:22.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
